@@ -23,14 +23,15 @@ namespace ThisSoundsGood
         public AudioInput(UserInterface ui)
         {
             this.ui = ui;
-            runner = new Thread(runThreads);
         }
 
         public void record()
         {
             wave = new WaveIn();
             s = new SemaphorePC(ui, wave.WaveFormat.SampleRate);
+            qd = 0;
             wave.DataAvailable += new EventHandler<WaveInEventArgs>(wave_DataAvailable);
+            runner = new Thread(runThreads);
             runner.Start();
             wave.StartRecording();
         }
@@ -59,6 +60,7 @@ namespace ThisSoundsGood
             wave.StopRecording();
             wave.Dispose();
             keep_alive = false;
+            Environment.Exit(0);
         }
     }
 }
