@@ -1,0 +1,12 @@
+D:\Custom Made Programs\222 Projects\Audio Tests\AudioTester\AudioTester\bin\Debug\AudioTester.exe.config
+D:\Custom Made Programs\222 Projects\Audio Tests\AudioTester\AudioTester\bin\Debug\AudioTester.exe
+D:\Custom Made Programs\222 Projects\Audio Tests\AudioTester\AudioTester\bin\Debug\AudioTester.pdb
+D:\Custom Made Programs\222 Projects\Audio Tests\AudioTester\AudioTester\bin\Debug\NAudio.dll
+D:\Custom Made Programs\222 Projects\Audio Tests\AudioTester\AudioTester\bin\Debug\NAudio.xml
+D:\Custom Made Programs\222 Projects\Audio Tests\AudioTester\AudioTester\obj\Debug\AudioTester.csprojResolveAssemblyReference.cache
+D:\Custom Made Programs\222 Projects\Audio Tests\AudioTester\AudioTester\obj\Debug\AudioTester.AuTester.resources
+D:\Custom Made Programs\222 Projects\Audio Tests\AudioTester\AudioTester\obj\Debug\AudioTester.Properties.Resources.resources
+D:\Custom Made Programs\222 Projects\Audio Tests\AudioTester\AudioTester\obj\Debug\AudioTester.csproj.GenerateResource.Cache
+D:\Custom Made Programs\222 Projects\Audio Tests\AudioTester\AudioTester\obj\Debug\AudioTester.csproj.CoreCompileInputs.cache
+D:\Custom Made Programs\222 Projects\Audio Tests\AudioTester\AudioTester\obj\Debug\AudioTester.exe
+D:\Custom Made Programs\222 Projects\Audio Tests\AudioTester\AudioTester\obj\Debug\AudioTester.pdb
