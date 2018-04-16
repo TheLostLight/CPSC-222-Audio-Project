@@ -1,0 +1,12 @@
+H:\Projects\AudioTests\ThisSoundsGood\ThisSoundsGood\ThisSoundsGood\bin\Debug\ThisSoundsGood.exe.config
+H:\Projects\AudioTests\ThisSoundsGood\ThisSoundsGood\ThisSoundsGood\bin\Debug\frequencies.txt
+H:\Projects\AudioTests\ThisSoundsGood\ThisSoundsGood\ThisSoundsGood\bin\Debug\ThisSoundsGood.exe
+H:\Projects\AudioTests\ThisSoundsGood\ThisSoundsGood\ThisSoundsGood\bin\Debug\ThisSoundsGood.pdb
+H:\Projects\AudioTests\ThisSoundsGood\ThisSoundsGood\ThisSoundsGood\bin\Debug\NAudio.dll
+H:\Projects\AudioTests\ThisSoundsGood\ThisSoundsGood\ThisSoundsGood\bin\Debug\NAudio.xml
+H:\Projects\AudioTests\ThisSoundsGood\ThisSoundsGood\ThisSoundsGood\obj\Debug\ThisSoundsGood.csprojResolveAssemblyReference.cache
+H:\Projects\AudioTests\ThisSoundsGood\ThisSoundsGood\ThisSoundsGood\obj\Debug\ThisSoundsGood.Properties.Resources.resources
+H:\Projects\AudioTests\ThisSoundsGood\ThisSoundsGood\ThisSoundsGood\obj\Debug\ThisSoundsGood.UserInterface.resources
+H:\Projects\AudioTests\ThisSoundsGood\ThisSoundsGood\ThisSoundsGood\obj\Debug\ThisSoundsGood.csproj.GenerateResource.Cache
+H:\Projects\AudioTests\ThisSoundsGood\ThisSoundsGood\ThisSoundsGood\obj\Debug\ThisSoundsGood.exe
+H:\Projects\AudioTests\ThisSoundsGood\ThisSoundsGood\ThisSoundsGood\obj\Debug\ThisSoundsGood.pdb
